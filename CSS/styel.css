@@ -1244,7 +1244,16 @@ footer {
     .mobile {
         width: 180px;
     }
-
+     .banner_text h2 {
+    font-size: 40px;
+    line-height: 50px;
+    margin-top: 25px;
+}
+.banner_text p {
+    font-size: 22px;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
     .line2 {
         display: none;
     }
@@ -1256,7 +1265,7 @@ footer {
         margin-top: 0px;
     }
     .right_images {
-        width: 95%;
+        width: 100%;
         top: 0px;
         left: 0px;
         transform: translate( 0px ,0px);
