@@ -1241,7 +1241,10 @@ footer {
 /*======================================  max-widh  575px ==================*/
 
  @media(max-width:575px){
-   
+    .mobile {
+        width: 180px;
+    }
+
     .line2 {
         display: none;
     }
